@@ -1,0 +1,11 @@
+.b-login{
+	background: url('../img/fondo-mj.png');
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.iniciar{
+	padding: 1em 2em;
+	background: white;
+}
