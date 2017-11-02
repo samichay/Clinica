@@ -1,5 +1,9 @@
 .b-login{
 	background: url('../img/fondo-mj.png');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	background-size: cover;
 	height: 100vh;
 	display: flex;
 	justify-content: center;
